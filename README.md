@@ -1,3 +1,8 @@
+Developed a user-friendly expense tracker web application using ReactJS for efficient management of personal finances,
+showing the balance, amount and short note of the transactions.
+
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
